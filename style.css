@@ -1,0 +1,64 @@
+body {
+  background: linear-gradient(#dcdcdc, #888888);
+}
+
+nav {
+  height: 300px;
+  background-color: #020d3f;
+}
+
+nav,
+h1 {
+  padding: 30px;
+  text-align: start;
+  font-size: 2.2em;
+  color: #fefefe;
+}
+
+nav,
+h2 {
+  padding: 30px;
+  text-align: start;
+  color: #fefefe;
+}
+
+.tabelas {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+table {
+  border: solid 5px;
+  overflow: hidden;
+  border-radius: 8px;
+  width: 500px;
+  height: 400px;
+  margin-left: 10px;
+  margin-right: 10px;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+table:hover {
+  color: #008000;
+  transform: scale(1.08);
+}
+
+.imagem {
+  width: 500px;
+  height: 400px;
+}
+
+footer {
+  background-color: #000000;
+  align-items: center;
+}
+
+.imagem_footer {
+  width: 40px;
+  height: 40px;
+}
+
+.alura {
+  padding-left: 1264px;
+}
